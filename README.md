@@ -1,6 +1,6 @@
-# CentOS-Django-Install
-This script is used to install Django 1.8 on CentOS 6.5 automatically.
-Author: Arvin(mikepetermessidona@hotmail.com) twitter(@Messi_Arvin)
+# CentOS-Django-Install  
+This script is used to install Django 1.8 on CentOS 6.5 automatically.  
+Author: Arvin(mikepetermessidona@hotmail.com) twitter(@Messi_Arvin)  
 Date:   Mar.09.2017
 Usage:  Save this file as CentOS-Django-Install.sh. 
         $ chmod u+x CentOS-Django-Install.sh
